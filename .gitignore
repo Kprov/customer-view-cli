@@ -61,3 +61,4 @@ typings/
 .next
 
 bamazon.sql
+package-lock.json
